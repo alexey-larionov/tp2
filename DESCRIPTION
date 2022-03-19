@@ -1,0 +1,12 @@
+Package: tp2
+Type: Package
+Title: Test package 2
+Version: 0.1.0
+Author: AL
+Maintainer: Alexey Larionov <alexey_larionov@hotmail.com>
+Description: Function, data and documentation
+    All placed on github.
+License: Free for all
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
