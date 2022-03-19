@@ -12,13 +12,10 @@ dot_product(x, y)
 \item{y}{scalar, vector or matrix}
 }
 \value{
-The dot product of \code(x) and \code(y)
+The dot product of x and y
 }
 \description{
 Dot product
-}
-\examples{
-product_by_element(c(1,2,3),matrix(c(1:12), nrow=3)
 }
 \author{
 Alexey Larionov

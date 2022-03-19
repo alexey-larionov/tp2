@@ -2,7 +2,7 @@
 % Please edit documentation in R/product_by_element.R
 \name{product_by_element}
 \alias{product_by_element}
-\title{Element-wise product}
+\title{Product by element}
 \usage{
 product_by_element(x, y)
 }
@@ -12,13 +12,10 @@ product_by_element(x, y)
 \item{y}{scalar, vector or matrix}
 }
 \value{
-The element-wise product of \code(x) and \code(y)
+The element-wise product of x and y
 }
 \description{
-Element-wise product
-}
-\examples{
-product_by_element(c(1,2,3),c(4,5,6))
+Product by element
 }
 \author{
 Alexey Larionov
