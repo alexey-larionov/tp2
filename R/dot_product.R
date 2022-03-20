@@ -9,7 +9,7 @@
 # Should really leave test here
 
 dot_product <- function(x,y){
-  z <- x %*% y
- # A mistake
-  return(z)
+  zz <- x %*% y # test
+  return(zz)
+
 }
