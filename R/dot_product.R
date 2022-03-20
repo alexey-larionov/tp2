@@ -5,10 +5,7 @@
 #' @param y scalar, vector or matrix
 #' @return The dot product of x and y
 #' @export dot_product
-
-# test
-
 dot_product <- function(x,y){
-  z <- x %*% y
+  z <- x %*% y # test
   return(z)
 }
