@@ -6,9 +6,10 @@
 #' @return The dot product of x and y
 #' @export dot_product
 
-# test
+# Should really leave test here
 
 dot_product <- function(x,y){
   z <- x %*% y
+ # A mistake
   return(z)
 }
