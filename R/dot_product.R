@@ -6,6 +6,6 @@
 #' @return The dot product of x and y
 #' @export dot_product
 dot_product <- function(x,y){
-  z <- x %*% y # test
-  return(z)
+  zz <- x %*% y # test
+  return(zz)
 }
