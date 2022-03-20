@@ -6,6 +6,6 @@
 #' @return The element-wise product of x and y
 #' @export product_by_element
 product_by_element <- function(x,y){
-  z <- x * y
+  z <- x * y # Test
   return(z)
 }
