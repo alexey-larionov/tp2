@@ -1,7 +1,7 @@
 Package: tp2
 Type: Package
 Title: Test package 2
-Version: 0.1.1
+Version: 0.1.2
 Author: AL
 Maintainer: Alexey Larionov <alexey_larionov@hotmail.com>
 Description: Function, data and documentation
