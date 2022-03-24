@@ -1,7 +1,7 @@
 Package: tp2
 Type: Package
 Title: Test package 2
-Version: 0.1.1
+Version: 0.1.2
 Author: AL
 Maintainer: Alexey Larionov <alexey_larionov@hotmail.com>
 Description: Function, data and documentation
@@ -12,5 +12,7 @@ LazyData: true
 RoxygenNote: 7.1.2
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 3.0.0)
 VignetteBuilder: knitr
+Config/testthat/edition: 3
