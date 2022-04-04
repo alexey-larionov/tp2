@@ -2,7 +2,7 @@
 title: "tp2-vignette"
 output: rmarkdown::html_vignette
 author: Alexey Larionov
-date: 20 March 2022
+date: 04 Apr 2022
 vignette: >
   %\VignetteIndexEntry{tp2-vignette}
   %\VignetteEngine{knitr::rmarkdown}
