@@ -1,30 +1,10 @@
----
-title: "tp2-vignette"
-output: rmarkdown::html_vignette
-author: Alexey Larionov
-date: 04 Apr 2022
-vignette: >
-  %\VignetteIndexEntry{tp2-vignette}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
+# Summary
 
-This vignette explains how to use tp2 package
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
-
-```{r setup}
-library(tp2)
-```
+This is a repository for tp2 project
 
 # Reading package data
 
-```{r}
+```{}
 
 x <- v
 y <- m
@@ -34,10 +14,9 @@ y
 
 ```
 
-
 # Using package functions
 
-```{r}
+```{}
 
 dot_product(x,y)
 
