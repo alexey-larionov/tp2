@@ -26,3 +26,4 @@ product_by_element(x,y)
 
 ```
 
+![flower](./img/flower.png)
