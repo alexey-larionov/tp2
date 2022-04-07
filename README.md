@@ -1,6 +1,14 @@
+
+
 # Summary
 
 This is a repository for tp2 project
+
+# Table of Contents
+
+- [Summary](#summary)
+- [Data](#reading-package-data)
+- [Functions](#using-package-functions)
 
 # Reading package data
 
