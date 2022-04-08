@@ -34,7 +34,6 @@ y
 
 ```
 
-
 # Using package functions
 
 ```{r}
@@ -44,6 +43,14 @@ dot_product(x,y)
 dot_product(y,x)
 
 product_by_element(x,y)
+
+```
+
+# Flower
+
+```{r}
+
+# image to be added
 
 ```
 
