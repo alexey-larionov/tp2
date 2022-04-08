@@ -37,3 +37,9 @@ product_by_element(x,y)
 # Flower
 
 ![flower](./inst/flower.png)
+
+# If you wish to know more
+
+Look in the vignette here:
+http://alexey-larionov.github.io/tp2
+
