@@ -18,6 +18,14 @@ knitr::opts_chunk$set(
 )
 ```
 
+# Summary 
+
+This is the very detailed description of my **tp2** package, similar to academic paper, as expected by R community for Vignette:  
+
+https://r-pkgs.org/vignettes.html  
+
+# Load package
+
 ```{r setup}
 library(tp2)
 ```
@@ -46,11 +54,15 @@ product_by_element(x,y)
 
 ```
 
-# Flower
+# More Flowers
 
-```{r}
+Vignette has bigger flowers than in README.md !   
 
-# image to be added
+Path to image should be relative to Rmd file  
 
+![flowers](../inst/big_flowers.png)
+A better way of showing graphics in Rmd :   
+
+```{r out.width = '100%'}
+knitr::include_graphics("../inst/big_flowers.png")
 ```
-
