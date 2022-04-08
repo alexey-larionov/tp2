@@ -33,5 +33,6 @@ dot_product(y,x)
 product_by_element(x,y)
 
 ```
+# Flower
 
 ![flower](./inst/flower.png)
